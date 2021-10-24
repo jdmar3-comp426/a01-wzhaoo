@@ -1,0 +1,39 @@
+body {
+  background-color: #ADD8E6;
+}
+
+h1:hover {
+  color: white;
+}
+
+h2 {
+    color: tomato;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+img {
+  border: 5px solid darkmagenta;
+}
+
+p.sisparagraph {
+  color: blueviolet;
+}
+#hi {
+  color: green;
+}
+
+p strong {
+  color:crimson;
+}
+
+a {
+  font-size: 30px;
+}
+
+u {
+  color: pink;
+}
